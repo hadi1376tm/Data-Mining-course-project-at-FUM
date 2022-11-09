@@ -1,0 +1,23 @@
+support,itemsets,length
+0.37322864802757566,frozenset({'coursework'}),1
+0.248946763692072,frozenset({'develop'}),1
+0.2523937188816545,frozenset({'grade'}),1
+0.2950976637303715,frozenset({'practic'}),1
+0.32746074301034084,frozenset({'reassess'}),1
+0.1369207200306396,frozenset({'research'}),1
+0.6823056300268097,frozenset({'student'}),1
+0.2386058981233244,"frozenset({'coursework', 'grade'})",2
+0.1126005361930295,"frozenset({'coursework', 'practic'})",2
+0.3002680965147453,"frozenset({'coursework', 'reassess'})",2
+0.34814247414783606,"frozenset({'coursework', 'student'})",2
+0.1664113366526235,"frozenset({'develop', 'student'})",2
+0.20471083875909613,"frozenset({'reassess', 'grade'})",2
+0.24818077364994254,"frozenset({'student', 'grade'})",2
+0.23362696284948295,"frozenset({'student', 'practic'})",2
+0.2975871313672922,"frozenset({'student', 'reassess'})",2
+0.19647644580620452,"frozenset({'coursework', 'reassess', 'grade'})",3
+0.23515894293374187,"frozenset({'coursework', 'student', 'grade'})",3
+0.10800459594025277,"frozenset({'coursework', 'student', 'practic'})",3
+0.2799693603983148,"frozenset({'coursework', 'student', 'reassess'})",3
+0.20107238605898123,"frozenset({'student', 'reassess', 'grade'})",3
+0.1934124856376867,"frozenset({'coursework', 'student', 'reassess', 'grade'})",4
